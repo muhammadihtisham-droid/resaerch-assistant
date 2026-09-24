@@ -1,0 +1,7 @@
+{
+  "name": "ResearchFlow AI",
+  "description": "AI-powered academic and technical research workspace with multi-provider abstraction supporting Grok and Groq.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
